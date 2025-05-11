@@ -1,0 +1,30 @@
+.left-menu {
+  width: 250px; /* Similar width to VS Code sidebar */
+  background-color: #252526; /* VS Code sidebar background color */
+  color: #cccccc; /* Default text color */
+  padding: 5px 10px; /* Remove default padding */
+  box-sizing: border-box;
+  border-right: 1px solid #333333; /* Border to separate from main content */
+  overflow-y: auto; /* Add scrollbar if content overflows */
+}
+
+.left-menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.left-menu li {
+  margin-bottom: 0; /* Remove margin between list items */
+}
+
+.left-menu a {
+  text-decoration: none;
+  color: #cccccc; /* Default link color */
+  display: block;
+  padding: 8px 15px; /* Add padding for clickable area */
+}
+
+.left-menu a:hover {
+  background-color: #37373d; /* Hover background color */
+  color: #ffffff; /* Hover text color */
+}

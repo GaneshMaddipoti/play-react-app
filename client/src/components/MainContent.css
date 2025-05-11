@@ -1,0 +1,9 @@
+/* client/src/components/MainContent.css */
+.main-content {
+  margin-left: 200px; /* Adjust based on LeftMenu width */
+  padding: 20px;
+  background-color: #1e1e1e; /* VS Code editor background color */
+  color: #cccccc; /* VS Code editor text color */
+  font-family: 'Consolas', 'Courier New', monospace; /* VS Code editor font */
+  line-height: 1.5;
+}

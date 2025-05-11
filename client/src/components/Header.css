@@ -1,0 +1,8 @@
+header {
+  background-color: #3c3c3c; /* Dark background for VS Code header */
+  color: #cccccc; /* Light gray text color */
+  padding: 5px 10px; /* Smaller padding */
+  text-align: left;
+  font-weight: bold;
+  height: 22px; /* Height similar to VS Code header */
+}
